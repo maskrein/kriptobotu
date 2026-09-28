@@ -1,0 +1,12 @@
+CRYPTO AI V7.19.1 COST AWARE SHARED STATE
+
+Added:
+- Cost-aware trade record
+- Shared state sync with cost fields
+- Gross PNL
+- Commission
+- Slippage
+- Net PNL
+
+Target flow:
+SELL -> Cost Engine -> Shared State -> Dashboard

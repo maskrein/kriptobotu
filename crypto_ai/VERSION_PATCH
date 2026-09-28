@@ -1,0 +1,6 @@
+SCALPING MODE V1.1
+
+Integrated:
+- Scalping engine into AutoExecutionLoop
+- Faster TP/SL exit checks
+- Paper trading continuous trade preparation

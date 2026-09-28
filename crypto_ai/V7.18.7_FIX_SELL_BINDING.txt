@@ -1,0 +1,7 @@
+CRYPTO AI V7.18.7 FIX
+
+Fixed:
+- LivePaperBinding SELL call
+- Removed unsupported symbol argument from PaperTrader.sell
+
+Prepared for next PaperTrader cost history integration test.

@@ -1,0 +1,9 @@
+CRYPTO AI V7.13.2 FINAL DASHBOARD
+
+Integration target:
+- Dashboard version update
+- AI Intelligence connection stage
+- Existing signal engine preserved
+- Existing paper trading preserved
+
+This package is based on the uploaded project.

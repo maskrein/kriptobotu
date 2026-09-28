@@ -1,0 +1,10 @@
+CRYPTO AI V7.18.2 PAPER HISTORY COST
+
+Added:
+- Trade record builder with cost details
+- Gross PNL storage
+- Commission storage
+- Slippage storage
+- Net PNL storage
+
+Prepared for PaperTrader history integration.

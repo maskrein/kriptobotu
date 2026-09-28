@@ -1,0 +1,8 @@
+CRYPTO AI V7.16.4 LIVE PAPER BINDING
+
+Added:
+- Runtime signal bridge
+- AI state to paper execution connection
+- BUY/SELL processing path
+
+Simulation only.

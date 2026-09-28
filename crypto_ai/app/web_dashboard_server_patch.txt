@@ -1,0 +1,8 @@
+# V7.4 PATCH NOTES
+# Add this import:
+# from trading.position_monitor import update_position_pnl
+#
+# Add this line as first line inside live():
+# update_position_pnl()
+#
+# This patch connects live position PNL calculation to dashboard updates.

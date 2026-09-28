@@ -1,0 +1,13 @@
+CRYPTO AI V7.20 AI LEARNING FEEDBACK LOOP
+
+Added:
+- Trade result feedback generator
+- Net PNL based learning signal
+- AI performance feedback card
+
+Flow:
+Paper Trade Result
+ -> Net PNL
+ -> Feedback
+ -> AI Memory
+ -> Future decision scoring

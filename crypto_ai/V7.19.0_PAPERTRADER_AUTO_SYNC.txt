@@ -1,0 +1,8 @@
+CRYPTO AI V7.19.0 PAPERTRADER AUTO SYNC
+
+Added:
+- PaperTrader sell() shared state synchronization
+- Dashboard compatible paper state bridge
+
+Flow:
+SELL -> PaperTrader -> history -> shared state -> Dashboard

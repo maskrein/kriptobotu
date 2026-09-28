@@ -1,0 +1,11 @@
+CRYPTO AI V7.13.2.5 AI DECISION LAYER
+
+Added:
+- AI Score
+- Market Mood
+- Risk Level
+- Decision Explanation
+- Dashboard/API integration
+
+Base:
+Uploaded crypto_ai.zip

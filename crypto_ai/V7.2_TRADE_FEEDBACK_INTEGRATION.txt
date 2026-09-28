@@ -1,0 +1,10 @@
+V7.2
+
+PaperTrader sell() connected to feedback memory.
+
+Flow:
+SELL
+ -> trade result
+ -> feedback_integration
+ -> trade_feedback.json
+ -> AI learning layer

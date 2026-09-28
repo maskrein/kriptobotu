@@ -1,0 +1,13 @@
+CRYPTO AI V7.16.3 SIGNAL TO PAPER ENGINE
+
+Added:
+- AI signal execution bridge
+- BUY signal -> PaperTrader.buy()
+- SELL signal -> PaperTrader.sell()
+- Paper execution state
+
+Simulation only.
+Future:
+- Commission
+- Slippage
+- Risk controls

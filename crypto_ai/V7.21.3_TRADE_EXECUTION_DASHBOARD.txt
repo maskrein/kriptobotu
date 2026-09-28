@@ -1,0 +1,13 @@
+CRYPTO AI V7.21.3 TRADE EXECUTION DASHBOARD
+
+Added:
+- AI Trade Execution dashboard card
+- Status
+- Symbol
+- Entry
+- Exit
+- Gross PNL
+- Net PNL
+- Result
+
+Prepared for live state JS binding.

@@ -1,0 +1,15 @@
+CRYPTO AI V7.21.4 TRADE EXECUTION LIVE BINDING
+
+Connected:
+- Trade Execution card fields
+- Shared paper state
+- Last trade result
+
+Fields:
+status
+symbol
+entry
+exit
+gross_pnl
+net_pnl
+result

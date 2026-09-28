@@ -1,0 +1,11 @@
+CRYPTO AI V7.22 SINGLE SHARED STATE
+
+Architecture fix:
+PaperTrader
+ -> paper_state.json
+ -> Dashboard reader
+
+Single source of truth added.
+
+Purpose:
+Remove separate in-memory states between worker and dashboard.

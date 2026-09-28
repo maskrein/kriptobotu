@@ -1,0 +1,13 @@
+SIGNAL FILTER V1.2
+
+Değişiklikler:
+- Uzun BUY cooldown kaldırıldı
+- Scalping için hızlı tekrar giriş desteği
+- Aynı fiyat/sinyal spam koruması devam ediyor
+
+Yeni akış:
+SELL
+ ->
+Yeni AI değerlendirmesi
+ ->
+Uygun BUY varsa tekrar giriş

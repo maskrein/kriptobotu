@@ -1,0 +1,11 @@
+CRYPTO AI V7.18.8 COST AWARE PAPERTRADER
+
+Added:
+- Cost-aware close result builder
+- Gross PNL
+- Commission
+- Slippage
+- Net PNL
+
+Target:
+PaperTrader.sell() history integration.

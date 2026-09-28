@@ -1,0 +1,10 @@
+from app.pnl_hook import update_pnl
+
+# Bu patch mevcut web_dashboard_server.py icine uygulanacak.
+# /api/live fonksiyonunda performans verisi hazirlandiktan sonra:
+
+# state = load_state()
+# state = update_pnl(state, get_prices())
+# save_state(state)
+
+# Bu dosya sadece baglanti notudur.

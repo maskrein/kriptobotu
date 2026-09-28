@@ -1,0 +1,15 @@
+CRYPTO AI V7.21.2 DASHBOARD TRADE EXECUTION CARD
+
+Added dashboard card data model:
+- Status
+- Symbol
+- Entry
+- Exit
+- Gross PNL
+- Commission
+- Slippage
+- Net PNL
+- Result
+
+Flow:
+Shared Paper State -> Trade Execution Card -> Dashboard UI

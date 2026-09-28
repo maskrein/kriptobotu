@@ -1,0 +1,6 @@
+CRYPTO AI V7.13.3 VERSION ALIGNMENT
+
+Changes:
+- Aligned dashboard version labels with V7.13.2
+- Aligned code markers
+- Preserved AI engine, memory analytics, history and trading modules

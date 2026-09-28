@@ -1,0 +1,10 @@
+CRYPTO AI V7.21 LIVE TRADE MONITOR
+
+Added:
+- Active trade monitoring structure
+- Last closed trade result display data
+- Entry/exit visibility preparation
+- Net PNL result visibility
+
+Flow:
+AI Decision -> Paper Trade -> Result -> Monitor

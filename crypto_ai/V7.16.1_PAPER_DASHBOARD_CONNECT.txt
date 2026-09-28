@@ -1,0 +1,13 @@
+CRYPTO AI V7.16.1 PAPER DASHBOARD CONNECT
+
+Added:
+- PaperTrader dashboard endpoint
+- Paper balance visibility
+- Open position visibility
+- Trade count visibility
+
+Next:
+- UI card rendering
+- Commission
+- Slippage
+- Advanced risk

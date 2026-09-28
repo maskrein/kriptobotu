@@ -1,0 +1,4 @@
+CRYPTO AI LIVE PAPER TRADING V7.6
+Built from the uploaded current crypto_ai.zip.
+Existing runtime structure preserved.
+Start with start_crypto_ai.bat

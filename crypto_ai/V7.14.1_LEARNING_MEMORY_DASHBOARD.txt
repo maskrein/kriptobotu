@@ -1,0 +1,15 @@
+CRYPTO AI V7.14.1
+
+Learning Memory Dashboard layer added.
+
+Features:
+- Learning status
+- Historical sample count
+- BUY / SELL / WAIT distribution
+- Average score calculation
+
+Preserved:
+- Signal Engine
+- AI Memory Analytics
+- AI History
+- Trading modules

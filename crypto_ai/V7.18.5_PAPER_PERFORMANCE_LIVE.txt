@@ -1,0 +1,10 @@
+CRYPTO AI V7.18.5 PAPER PERFORMANCE LIVE
+
+Connected:
+- Paper trade history
+- Gross PNL
+- Commission
+- Slippage
+- Net PNL
+
+Dashboard card now reads realized trade data.

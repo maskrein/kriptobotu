@@ -1,0 +1,10 @@
+CRYPTO AI V7.18.9 SHARED PAPER STATE BRIDGE
+
+Added:
+- Shared paper state storage
+- Dashboard/PaperTrader common state bridge
+- Persistent paper history path
+
+Next integration:
+PaperTrader close -> sync_paper_state()
+Dashboard -> load shared state

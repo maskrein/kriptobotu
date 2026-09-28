@@ -1,0 +1,8 @@
+CRYPTO AI V7.19.4 PAPER API SHARED STATE
+
+Fixed:
+- /api/paper now reads shared paper state first
+- Dashboard uses runtime paper shared state
+
+Flow:
+PaperTrader -> Shared State -> /api/paper -> Dashboard

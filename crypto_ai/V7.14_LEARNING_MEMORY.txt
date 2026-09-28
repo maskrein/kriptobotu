@@ -1,0 +1,12 @@
+CRYPTO AI V7.14 LEARNING MEMORY
+
+Added:
+- Learning memory analysis module
+- Historical signal statistics
+- Average score tracking
+
+Preserved:
+- Signal Engine
+- AI History
+- AI Memory Analytics
+- Trading modules

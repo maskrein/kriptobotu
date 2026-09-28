@@ -1,0 +1,6 @@
+CRYPTO AI V7.13.2 VERSION CLEANUP
+
+Changes:
+- Updated version marker files
+- Cleaned old documentation version references
+- Preserved dashboard, AI memory, history and trading modules

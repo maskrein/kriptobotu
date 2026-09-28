@@ -1,0 +1,11 @@
+CRYPTO AI V7.18.6
+
+Final Paper Performance Dashboard connection.
+
+Added:
+- Gross PNL
+- Commission
+- Slippage
+- Net PNL
+- History based aggregation
+- Net PNL dashboard calculation

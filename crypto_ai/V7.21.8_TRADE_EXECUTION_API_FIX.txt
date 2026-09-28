@@ -1,0 +1,17 @@
+CRYPTO AI V7.21.8
+
+Trade Execution API fix.
+
+Added unified payload:
+- status
+- symbol
+- entry
+- exit
+- gross_pnl
+- commission
+- slippage
+- net_pnl
+- result
+
+Source:
+paper history + shared state

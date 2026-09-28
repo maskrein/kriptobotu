@@ -1,0 +1,16 @@
+CRYPTO AI V7.21.5 API TRADE BINDING COMPLETE
+
+Connected:
+Paper State
+ -> /api/live trade_execution
+ -> Javascript binding
+ -> AI Trade Execution card
+
+Fields:
+status
+symbol
+entry
+exit
+gross_pnl
+net_pnl
+result

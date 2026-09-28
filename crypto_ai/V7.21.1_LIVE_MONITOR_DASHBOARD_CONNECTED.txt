@@ -1,0 +1,21 @@
+CRYPTO AI V7.21.1 LIVE MONITOR DASHBOARD CONNECTED
+
+Connected:
+- Paper shared state
+- Live trade monitor
+- Last trade result
+- Cost aware PNL display
+
+Flow:
+Paper State -> Monitor -> Dashboard
+
+Fields:
+status
+position
+entry
+exit
+gross_pnl
+commission
+slippage
+net_pnl
+result

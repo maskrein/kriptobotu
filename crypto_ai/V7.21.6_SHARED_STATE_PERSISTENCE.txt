@@ -1,0 +1,11 @@
+CRYPTO AI V7.21.6
+
+Shared persistent paper state layer added.
+
+Flow:
+PaperWorker
+ -> persistent_paper_state
+ -> dashboard
+
+Purpose:
+Keep trade results visible after dashboard refresh/restart.

@@ -1,0 +1,9 @@
+CRYPTO AI V7.18 TRADING COST ENGINE
+
+Added:
+- Commission calculation
+- Slippage simulation
+- Gross PNL
+- Net PNL calculation
+
+Prepared for PaperTrader integration.

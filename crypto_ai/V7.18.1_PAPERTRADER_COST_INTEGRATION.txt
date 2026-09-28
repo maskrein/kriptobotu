@@ -1,0 +1,10 @@
+CRYPTO AI V7.18.1 PAPERTRADER COST INTEGRATION
+
+Added:
+- Paper trade cost integration layer
+- Gross PNL tracking
+- Commission tracking
+- Slippage tracking
+- Net PNL preparation
+
+Ready for PaperTrader history integration.

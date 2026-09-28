@@ -1,0 +1,10 @@
+CRYPTO AI V7.18.4 NET PNL DASHBOARD
+
+Added:
+- Paper Performance dashboard card
+- Gross PNL display
+- Commission display
+- Slippage display
+- Net PNL display
+
+Prepared for live paper history connection.

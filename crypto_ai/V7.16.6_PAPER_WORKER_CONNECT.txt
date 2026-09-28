@@ -1,0 +1,11 @@
+CRYPTO AI V7.16.6 PAPER WORKER CONNECT
+
+Added:
+- Worker bridge between AI decisions and paper execution
+- AI decision forwarding
+- Paper state access
+
+Flow:
+AI Decision -> Paper Worker -> Auto Execution -> Paper Trader -> Dashboard
+
+Simulation only.

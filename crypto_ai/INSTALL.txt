@@ -1,0 +1,17 @@
+CRYPTO AI V7.5 PNL WORKER PATCH
+
+Bu paket mevcut dashboard dosyasini degistirmez.
+
+Eklenen:
+runtime/pnl_worker.py
+
+Amac:
+- Acik pozisyonu izlemek
+- Canli fiyat ile PNL hesaplamak
+- live_state.json guncellemek
+
+Baslatma icin uygulama baslangicina:
+from runtime.pnl_worker import start_pnl_worker
+start_pnl_worker()
+
+eklenir.

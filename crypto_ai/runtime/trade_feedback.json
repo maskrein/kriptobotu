@@ -1,0 +1,22 @@
+[
+  {
+    "time": "2026-09-28 02:29:00.079426",
+    "symbol": "BTCUSDT",
+    "side": "LONG",
+    "entry": 84774.75,
+    "exit": 84402.0,
+    "pnl": -0.3728,
+    "exit_reason": "SCALP_STOP_LOSS",
+    "result": "LOSS"
+  },
+  {
+    "time": "2026-09-28 03:09:29.861729",
+    "symbol": "BTCUSDT",
+    "side": "LONG",
+    "entry": 84492.01,
+    "exit": 84384.01,
+    "pnl": -0.108,
+    "exit_reason": "SCALP_STOP_LOSS",
+    "result": "LOSS"
+  }
+]

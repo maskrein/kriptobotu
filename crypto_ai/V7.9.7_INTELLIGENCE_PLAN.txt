@@ -1,0 +1,19 @@
+CRYPTO AI V7.13.2 INTELLIGENCE PACK
+
+Base:
+V7.13.2.6 STABLE
+
+Prepared layer:
+- AI intelligence expansion package base
+- Existing dashboard flow preserved
+- Existing signal engine preserved
+- Existing paper trading preserved
+
+Next integration targets:
+- AI score breakdown
+- Momentum score
+- Trend score
+- Volume score
+- Volatility score
+- Extended AI explanation
+- Expanded AI history records

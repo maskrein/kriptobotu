@@ -1,0 +1,9 @@
+CRYPTO AI V7.19.2 DASHBOARD SHARED STATE
+
+Added:
+- Dashboard shared paper state reader
+- Reads runtime paper shared state
+- Keeps Paper Performance connected with common state
+
+Flow:
+PaperTrader -> Shared State -> Dashboard

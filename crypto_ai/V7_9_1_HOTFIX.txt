@@ -1,0 +1,5 @@
+CRYPTO AI V7.13.2.1 HOTFIX
+
+Dashboard no longer calls AI signal generation on every refresh.
+The dashboard reads the latest AI state only.
+PNL, position and trade structures preserved.

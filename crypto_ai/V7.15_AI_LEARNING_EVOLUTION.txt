@@ -1,0 +1,14 @@
+CRYPTO AI V7.15 AI LEARNING EVOLUTION
+
+Added:
+- AI evolution analytics module
+- Historical decision counting
+- Average score tracking
+- Average confidence tracking
+- Learning status output
+
+Compatible with:
+- AI History
+- AI Memory Analytics
+- Learning Memory pipeline
+

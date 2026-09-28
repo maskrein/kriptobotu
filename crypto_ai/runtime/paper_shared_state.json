@@ -1,0 +1,63 @@
+{
+  "balance": 9916.337230000001,
+  "position": {
+    "symbol": "BTCUSDT",
+    "side": "LONG",
+    "entry": 84382.02,
+    "quantity": 0.001,
+    "time": 1790554175.3852615,
+    "tp": 84677.36,
+    "sl": 84213.26
+  },
+  "history": [
+    {
+      "symbol": "BTCUSDT",
+      "side": "LONG",
+      "entry": 85000,
+      "quantity": 0.001,
+      "time": 1790530652.036758,
+      "exit": 84500,
+      "pnl": -0.5,
+      "closed_time": 1790533213.8913999
+    },
+    {
+      "symbol": "BTCUSDT",
+      "side": "LONG",
+      "entry": 85000,
+      "quantity": 0.001,
+      "time": 1790533749.5965025,
+      "tp": 86700.0,
+      "sl": 84150.0,
+      "exit": 86700,
+      "pnl": 1.7,
+      "closed_time": 1790534261.726566,
+      "exit_reason": "TAKE_PROFIT"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "side": "LONG",
+      "entry": 84774.75,
+      "quantity": 0.001,
+      "time": 1790537257.80698,
+      "tp": 86470.24,
+      "sl": 84135.16,
+      "exit": 84402.0,
+      "pnl": -0.3728,
+      "closed_time": 1790551740.0734437,
+      "exit_reason": "SCALP_STOP_LOSS"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "side": "LONG",
+      "entry": 84492.01,
+      "quantity": 0.001,
+      "time": 1790553138.03217,
+      "tp": 84787.73,
+      "sl": 84323.03,
+      "exit": 84384.01,
+      "pnl": -0.108,
+      "closed_time": 1790554169.8437874,
+      "exit_reason": "SCALP_STOP_LOSS"
+    }
+  ]
+}

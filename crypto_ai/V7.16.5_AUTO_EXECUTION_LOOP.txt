@@ -1,0 +1,15 @@
+CRYPTO AI V7.16.5 AUTO EXECUTION LOOP
+
+Added:
+- Automatic signal processing layer
+- AI signal bridge to paper execution
+- BUY/SELL routing preparation
+- Paper trading state access
+
+Simulation only.
+
+Future:
+- Real scheduler loop
+- Commission
+- Slippage
+- Risk controls

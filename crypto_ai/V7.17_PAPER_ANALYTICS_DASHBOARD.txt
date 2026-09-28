@@ -1,0 +1,10 @@
+CRYPTO AI V7.17 PAPER ANALYTICS DASHBOARD
+
+Added:
+- Paper performance dashboard card data
+- Balance display
+- Trade count
+- Win/Loss count
+- Net PNL display
+
+Built on V7.16 paper trading core.

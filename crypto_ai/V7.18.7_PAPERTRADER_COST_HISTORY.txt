@@ -1,0 +1,10 @@
+CRYPTO AI V7.18.7 PAPERTRADER COST HISTORY
+
+Integration target:
+- PaperTrader close history
+- Gross PNL
+- Commission
+- Slippage
+- Net PNL
+
+This version prepares PaperTrader history structure for cost-aware records.

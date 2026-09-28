@@ -1,0 +1,15 @@
+CRYPTO AI V7.16 PAPER TRADING CORE
+
+Added:
+- Virtual balance engine
+- BUY position opening
+- SELL position closing
+- Position tracking
+- Trade history
+- Basic PNL calculation
+
+Prepared for future:
+- Commission
+- Slippage
+- Risk engine
+- Advanced AI learning

@@ -1,0 +1,7 @@
+CRYPTO AI V7.13.2 CLEANUP PATCH
+
+Changes:
+- Unified dashboard version labels
+- Updated old V7.13.2.7 and V7.10 markers
+- Standardized system version to V7.13.2
+- Preserved AI engine, memory analytics and history modules

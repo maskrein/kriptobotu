@@ -1,0 +1,11 @@
+CRYPTO AI V7.18.3 PAPERTRADER HISTORY INTEGRATION
+
+Added:
+- Paper close trade history adapter
+- Cost-aware trade record generation
+- Gross PNL storage
+- Commission storage
+- Slippage storage
+- Net PNL storage
+
+Prepared for direct PaperTrader close integration.

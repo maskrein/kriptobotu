@@ -1,0 +1,7 @@
+CRYPTO AI V7.13 MEMORY INTELLIGENCE CONNECTED
+
+Base: V7.12.2
+Changes:
+- Dashboard version updated to V7.13
+- Memory intelligence connection prepared
+- Existing AI, history and trading modules preserved

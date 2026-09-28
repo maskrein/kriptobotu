@@ -1,0 +1,1 @@
+Position Manager v1 added. BUY/SELL state control layer.

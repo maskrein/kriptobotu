@@ -1,0 +1,4 @@
+# Add this compatibility wrapper to existing runtime/pnl_worker.py
+
+def update_pnl():
+    return update_pnl_once()

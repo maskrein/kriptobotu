@@ -1,0 +1,4636 @@
+[
+  {
+    "timestamp": "2026-09-26T18:39:29.952911",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84129.88,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:39:29.951872"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:39:31.003498",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84129.88,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:39:30.997514"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:39:32.074265",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84129.88,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:39:32.058311"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:39:33.956560",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84129.88,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:39:33.934659"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:39:36.071247",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84129.88,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:39:36.048350"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:39:39.046248",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84129.89,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:39:39.028297"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:39:42.032641",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84129.88,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:39:42.021670"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:39:45.118415",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84129.89,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:39:45.111435"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:39:48.108807",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84129.88,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:39:48.100808"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:39:51.129877",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84129.89,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:39:51.118906"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:39:54.021375",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84129.89,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:39:54.014394"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:39:57.010507",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84129.89,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:39:57.003493"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:39:58.467665",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84129.88,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:39:58.459686"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:01.483928",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84129.88,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:01.454008"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:05.126787",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84145.26,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:05.111766"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:08.118114",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84145.26,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:08.103153"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:11.131043",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84145.26,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:11.124062"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:14.151643",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84145.25,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:14.142668"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:17.114626",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84145.26,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:17.102651"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:20.124225",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84145.26,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:20.109507"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:23.128460",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84145.26,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:23.110537"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:26.144998",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84145.26,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:26.128044"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:29.125104",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84145.25,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:29.117073"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:32.216888",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84120.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:32.194906"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:35.123903",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84120.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:35.115924"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:38.110203",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84120.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:38.101226"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:41.138771",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84120.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:41.115833"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:44.667046",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84112.53,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:44.650121"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:47.129040",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84112.54,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:47.113083"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:50.130248",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84112.54,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:50.122308"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:53.121906",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84112.54,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:53.113905"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:56.133693",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84112.53,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:56.123720"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:40:59.117728",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84104.88,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:40:59.111263"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:41:08.430397",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84104.88,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:41:08.414440"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:41:55.465590",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84104.87,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:41:55.434634"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:42:55.161685",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84104.87,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:42:55.135754"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:43:55.451722",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84104.87,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:43:55.432777"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:44:14.837580",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84104.87,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:44:14.827606"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:44:16.480458",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84104.87,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:44:16.455525"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:44:18.765221",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.21,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:44:18.754248"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:44:21.767632",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.21,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:44:21.757657"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:44:25.130946",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.21,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:44:25.118979"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:44:28.129150",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.22,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:44:28.121174"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:44:31.107354",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.28,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:44:31.096384"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:44:34.124644",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.35,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:44:34.114671"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:44:37.218696",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.35,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:44:37.208724"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:45:33.696597",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.35,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:45:33.681636"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:45:34.197344",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.35,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:45:34.188367"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:45:36.773336",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.36,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:45:36.751040"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:45:38.893232",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.35,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:45:38.868299"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:45:39.967686",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.36,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:45:39.958709"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:45:41.273155",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.35,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:45:41.246260"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:45:44.275649",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.36,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:45:44.242132"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:45:47.238643",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.36,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:45:47.231630"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:45:50.237114",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.35,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:45:50.222197"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:45:53.234707",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.35,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:45:53.216754"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:45:56.243373",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.36,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:45:56.233399"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:00.152145",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.35,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:00.144164"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:03.122169",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.35,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:03.113192"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:05.239355",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.35,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:05.220644"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:08.330704",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.36,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:08.313749"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:12.136686",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.35,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:12.126724"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:15.143012",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84104.75,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:15.132039"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:18.127355",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84104.76,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:18.113392"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:21.134487",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84104.75,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:21.123515"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:24.143611",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84104.75,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:24.129646"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:27.175197",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84104.75,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:27.144282"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:30.194030",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84104.75,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:30.186050"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:33.169019",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84104.76,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:33.158045"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:36.200038",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84104.75,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:36.166168"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:39.171557",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84104.75,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:39.153634"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:42.171711",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:42.151765"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:45.147931",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:45.137959"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:48.135131",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:48.125157"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:51.149279",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:51.134321"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:54.141885",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:54.129171"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:46:57.159012",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:46:57.147175"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:47:00.153966",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:47:00.142994"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:47:03.147499",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:47:03.135562"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:47:06.130805",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:47:06.120863"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:47:09.207715",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:47:09.183780"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:47:46.867843",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:47:46.858868"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:47:46.892777",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:47:46.882806"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:47:47.973516",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:47:47.959551"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:47:49.048664",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:47:49.034676"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:47:51.415667",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:47:51.405692"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:47:54.406694",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:47:54.397710"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:47:57.409325",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:47:57.397360"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:47:57.866372",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:47:57.859389"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:00.879600",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:00.858696"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:04.115793",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:04.107815"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:06.915536",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:06.902570"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:09.873470",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:09.865514"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:12.895730",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:12.883762"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:16.132861",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:16.123885"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:19.130516",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:19.117551"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:22.148561",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:22.138262"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:25.147756",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:25.132795"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:28.143589",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:28.129598"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:31.125535",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:31.113568"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:34.125151",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:34.114179"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:37.137277",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:37.122317"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:40.119213",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:40.109237"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:43.134643",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:43.119684"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:46.130945",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:46.119974"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:49.136757",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:49.125786"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:52.136725",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:52.124783"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:55.146503",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:55.123738"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:48:58.177811",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:48:58.158861"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:49:01.131329",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:49:01.122348"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:49:04.136528",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:49:04.125557"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:49:07.152747",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:49:07.134793"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:49:10.133976",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:49:10.122007"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:49:13.146949",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.85,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:49:13.135077"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:49:55.472548",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84092.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:49:55.462575"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:50:34.507277",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84090.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:50:34.498299"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:50:35.335079",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84090.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:50:35.324106"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:50:37.928331",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84090.02,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:50:37.901407"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:50:40.830122",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84090.02,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:50:40.799185"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:50:43.787624",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84090.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:50:43.767783"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:50:46.807464",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.45,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:50:46.781568"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:50:49.774152",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.45,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:50:49.762184"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:50:53.138814",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.46,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:50:53.126846"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:50:55.756868",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.46,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:50:55.745897"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:50:58.761316",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.46,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:50:58.747355"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:02.314061",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.45,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:02.304088"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:05.130599",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.45,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:05.119524"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:08.148871",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.46,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:08.137900"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:11.137571",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.46,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:11.127597"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:14.134091",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.45,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:14.122123"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:17.183917",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.46,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:17.145053"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:20.149283",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.46,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:20.135321"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:23.142102",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.46,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:23.124116"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:26.131054",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.46,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:26.119058"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:29.199127",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.45,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:29.170199"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:32.146504",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84099.64,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:32.129575"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:35.162481",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84099.64,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:35.140502"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:38.209729",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84099.64,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:38.172861"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:41.145773",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84099.63,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:41.134802"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:44.155952",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84099.64,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:44.137999"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:47.156088",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84099.63,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:47.126168"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:50.218736",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84099.64,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:50.188776"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:53.179528",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84099.64,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:53.167559"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:56.145268",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84099.64,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:56.122901"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:51:59.167774",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84096.08,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:51:59.142937"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:52:55.480673",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84140.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:52:55.463674"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:53:55.151512",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84140.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:53:55.136552"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:54:57.972575",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84152.02,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:54:57.952458"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:54:57.999502",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84152.02,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:54:57.989528"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:54:59.080134",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84152.02,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:54:59.070158"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:00.199124",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84152.03,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:00.168210"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:01.945611",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84152.03,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:01.933671"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:04.960061",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84152.03,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:04.940114"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:08.030298",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84153.32,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:08.002374"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:11.129824",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84153.31,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:11.116859"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:13.947527",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84153.31,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:13.938551"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:17.134835",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84155.12,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:17.123865"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:20.137841",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84155.13,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:20.126869"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:23.141142",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84155.13,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:23.126149"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:26.136069",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84155.12,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:26.126128"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:29.164868",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84155.13,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:29.139936"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:32.240904",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84155.12,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:32.229931"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:35.197294",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:35.181335"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:38.128496",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:38.116121"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:41.192188",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:41.182216"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:44.142495",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84140.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:44.128529"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:47.199126",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84140.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:47.167727"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:50.151408",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84140.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:50.136421"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:53.198204",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84140.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:53.146247"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:56.164897",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84140.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:56.143179"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:55:59.297148",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84140.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:55:59.288171"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:56:02.128044",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84140.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:56:02.118071"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:56:05.134799",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84140.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:56:05.125795"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:56:08.143975",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84140.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:56:08.112031"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:56:11.184840",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84140.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:56:11.147784"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:56:14.184834",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84140.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:56:14.142516"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:56:55.463352",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84149.98,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:56:55.450383"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T18:57:55.151901",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84154.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 18:57:55.139897"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:05:26.143006",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:05:25.908733"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:05:26.838948",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:05:26.826976"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:05:27.936153",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:05:27.925409"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:05:30.484408",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:05:30.470440"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:05:33.487331",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:05:33.462397"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:05:36.491302",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:05:36.462383"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:05:39.459933",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:05:39.447965"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:05:43.141609",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:05:43.129640"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:05:46.180674",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:05:46.167223"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:05:49.142952",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:05:49.128965"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:05:52.152770",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:05:52.140801"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:05:55.183091",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:05:55.164142"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:05:57.477019",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:05:57.460063"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:05:58.498934",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:05:58.469020"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:00.976312",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:00.963347"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:03.966286",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:03.953874"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:06.962072",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:06.946800"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:09.950999",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:09.940025"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:13.449612",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:13.438641"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:16.122589",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:16.102666"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:19.145126",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:19.121191"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:22.110323",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:22.098352"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:24.998123",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:24.978172"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:26.170463",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:26.132528"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:26.903576",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:26.891608"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:27.609216",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:27.564338"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:30.087303",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:30.064365"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:33.151655",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:33.127691"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:36.149257",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:36.131305"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:51.387471",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:51.385476"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:52.749311",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:52.732358"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:53.875335",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:53.830934"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:55.289505",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:55.272550"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:06:58.364896",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:06:58.345917"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:07:01.298522",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:07:01.265621"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:07:04.263902",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:07:04.251802"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:07:08.126563",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:07:08.114595"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:07:11.134687",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:07:11.117732"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:07:14.081952",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:07:14.070947"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:07:16.275200",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:07:16.263230"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:07:20.137062",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:07:20.122104"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:07:23.131315",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84150.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:07:23.120344"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:27:27.864177",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84108.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:27:27.647784"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:27:28.587008",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84108.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:27:28.576035"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:27:29.648817",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84108.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:27:29.615873"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:27:30.938705",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84108.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:27:30.885849"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:27:33.884572",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84108.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:27:33.861629"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:11.592308",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:11.533465"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:12.137247",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:12.126243"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:13.696144",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:13.685023"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:15.829082",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.18,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:15.817117"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:18.124484",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:18.113513"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:21.123796",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:21.108835"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:24.130389",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.18,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:24.118427"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:27.161894",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:27.118969"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:30.149539",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:30.124609"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:33.151556",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.18,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:33.122609"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:36.160493",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.18,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:36.134562"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:39.154618",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:39.127692"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:42.145846",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:42.126868"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:45.143930",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:45.129968"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:48.144397",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:48.131433"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:51.148438",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:51.125526"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:54.136569",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.18,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:54.118098"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:28:57.129196",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:28:57.116231"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:29:00.131087",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:29:00.117124"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:29:03.134959",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:29:03.114010"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:29:06.633981",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84098.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:29:06.615027"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:32:17.648092",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84152.18,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:32:17.645095"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:32:18.752732",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84152.18,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:32:18.739803"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:32:19.860591",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84152.18,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:32:19.845627"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:32:22.911624",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84152.18,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:32:22.863752"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:32:25.840413",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84154.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:32:25.829442"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:32:29.224092",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84154.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:32:29.213121"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:32:32.133427",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84154.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:32:32.120459"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:32:35.145019",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:32:35.133051"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:32:38.136059",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:32:38.118111"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:32:41.132725",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:32:41.115976"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:32:44.142702",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:32:44.111781"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:32:47.141968",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:32:47.130031"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:32:50.157008",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:32:50.144044"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:32:53.128699",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:32:53.118725"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:32:56.127337",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:32:56.115349"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:32:59.116997",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:32:59.106054"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:33:02.130814",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:33:02.118845"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:33:05.146889",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:33:05.125927"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:33:08.156016",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:33:08.126107"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:33:11.160779",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:33:11.143860"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:33:14.138441",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:33:14.121062"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:33:17.612050",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:33:17.602200"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:33:20.146530",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:33:20.131605"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:33:23.149875",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:33:23.135647"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:33:26.148128",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:33:26.132451"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:33:55.450159",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84162.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:33:55.433208"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:34:55.136971",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84168.17,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:34:55.122046"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:35:55.481078",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84153.02,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:35:55.450163"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:36:55.162007",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84153.02,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:36:55.131096"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:37:55.462760",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84153.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:37:55.447065"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:38:55.141614",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84153.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:38:55.124701"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:39:55.443762",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84153.02,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:39:55.429831"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:40:55.162676",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84153.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:40:55.148754"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:41:55.448382",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84156.74,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:41:55.433435"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:42:55.134974",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84156.74,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:42:55.120028"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:43:55.451522",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84156.74,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:43:55.440529"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:44:55.159652",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84156.75,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:44:55.129098"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:45:55.456988",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84136.62,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:45:55.442032"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:46:55.160026",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84145.99,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:46:55.127918"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:47:55.450137",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84166.3,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:47:55.435197"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:48:55.149240",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84145.13,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:48:55.135696"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:49:55.456852",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84153.35,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:49:55.441907"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:50:55.637737",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84142.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:50:55.607851"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:51:55.426550",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84140.1,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:51:55.416576"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:52:55.149600",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84131.67,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:52:55.133294"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:53:55.446233",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84124.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:53:55.431287"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:54:55.131170",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84124.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:54:55.116619"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:55:55.444042",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84124.24,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:55:55.429498"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:56:55.139927",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84106.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:56:55.124983"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:57:55.456431",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84122.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:57:55.441841"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:58:55.133733",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84122.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:58:55.117779"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T19:59:55.453527",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84119.99,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 19:59:55.438571"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:00:55.141780",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84118.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:00:55.128817"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:01:55.471728",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84128.62,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:01:55.442814"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:02:55.197475",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84128.62,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:02:55.184478"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:03:55.454497",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84095.97,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:03:55.437542"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:04:55.631543",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84091.2,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:04:55.617577"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:05:55.463506",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84097.2,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:05:55.440544"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:06:55.159527",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84088.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:06:55.131604"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:07:55.977430",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84088.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:07:55.949506"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:08:55.162507",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84080.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:08:55.131592"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:09:55.478622",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84088.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:09:55.450880"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:10:55.148621",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84074.96,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:10:55.131666"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:11:55.476063",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84065.28,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:11:55.462102"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:12:55.178171",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.04,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:12:55.147225"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:13:55.472861",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84095.94,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:13:55.437960"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:14:55.183441",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84095.95,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:14:55.153582"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:15:55.590363",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84077.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:15:55.555464"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:16:55.147549",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84065.27,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:16:55.134583"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:17:55.475049",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84064.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:17:55.448122"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:18:55.160806",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84065.28,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:18:55.137871"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:19:55.479503",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84055.38,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:19:55.464544"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:20:55.165222",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84082.62,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:20:55.135313"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:21:55.463098",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84076.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:21:55.437205"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:22:55.161257",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84070.14,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:22:55.130356"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:23:55.481719",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84070.72,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:23:55.450171"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:24:55.122680",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84070.71,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:24:55.108721"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:25:55.446531",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84070.72,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:25:55.432972"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:26:55.139041",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84069.84,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:26:55.123087"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:27:55.442715",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84069.83,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:27:55.426762"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:28:53.252077",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84059.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:28:53.235166"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:29:53.556838",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84059.04,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:29:53.535898"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:30:53.293576",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84059.69,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:30:53.268989"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:38:12.289689",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84070.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:38:12.284701"
+    }
+  },
+  {
+    "timestamp": "2026-09-26T20:46:04.707972",
+    "signal": {
+      "symbol": "BTCUSDT",
+      "price": 84107.23,
+      "signal": "BUY",
+      "confidence": 80,
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "time": "2026-09-26 20:46:04.696004"
+    }
+  }
+]

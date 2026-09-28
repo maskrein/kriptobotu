@@ -1,0 +1,14 @@
+CRYPTO AI V7.14.3
+
+Learning Memory dashboard card integration layer.
+
+Added:
+- Dashboard card data formatter
+- Learning status display structure
+- Sample and signal statistics display
+
+Preserved:
+- Signal Engine
+- AI History
+- AI Memory Analytics
+- Trading modules

@@ -1,0 +1,16 @@
+CRYPTO AI V7.14.2
+
+Learning Memory UI Connect layer.
+
+Added:
+- Dashboard-ready learning memory data provider
+- Learning status
+- Sample count
+- BUY/SELL/WAIT distribution
+- Average score
+
+Preserved:
+- Signal Engine
+- AI Memory Analytics
+- AI History
+- Trading modules

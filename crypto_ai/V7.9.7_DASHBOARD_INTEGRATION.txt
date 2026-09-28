@@ -1,0 +1,19 @@
+CRYPTO AI V7.13.2 DASHBOARD INTEGRATION
+
+Based on V7.13.2.6 stable.
+
+Integration target:
+- AI Intelligence output to dashboard
+- Momentum score
+- Trend score
+- Volume score
+- Volatility score
+- AI explanation
+
+Existing:
+- Signal Engine
+- Paper Trading
+- PNL
+- AI History
+
+Preserved.

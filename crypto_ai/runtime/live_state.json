@@ -1,0 +1,2026 @@
+{
+  "balance": 10000,
+  "gross_pnl": 156.03,
+  "fees": 0,
+  "slippage": 0,
+  "net_pnl": 156.03,
+  "position": {
+    "symbol": "BTCUSDT",
+    "entry": 84007.37,
+    "quantity": 1,
+    "sl": 82327.2226,
+    "tp": 87367.6648
+  },
+  "trades": [
+    {
+      "action": "BUY",
+      "symbol": "BTCUSDT",
+      "entry": 84007.37,
+      "quantity": 1,
+      "sl": 82327.2226,
+      "tp": 87367.6648
+    }
+  ],
+  "ai_history": [
+    {
+      "symbol": "BTCUSDT",
+      "price": 84406.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 01:21:13.955114"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84440.65,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 01:22:15.266442"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84489.33,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 01:23:16.638370"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84510.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 01:24:17.536834"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84536.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 01:25:18.474468"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84526.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 01:26:19.415183"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84530.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 01:27:20.313901"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84564.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 01:28:22.129953"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84566.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 01:29:24.248702"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84489.34,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 01:30:19.642756"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84423.41,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 01:31:09.448098"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84408.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 01:32:10.581855"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84404.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 01:33:11.456226"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84346.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 01:34:01.260361"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84292.0,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:34:51.132177"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84303.51,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 01:35:29.915453"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84222.89,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:35:35.463954"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84264.0,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:36:36.351223"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84204.81,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:37:04.026890"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84217.31,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:38:05.401816"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84246.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:39:06.296481"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84220.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:40:07.179509"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84217.25,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:41:08.324491"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84198.0,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:42:09.697309"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84208.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:43:10.524521"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84198.0,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:44:12.365333"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84165.92,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:45:13.377789"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84145.26,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:46:14.215401"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84145.18,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:47:15.073983"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84174.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:48:17.014258"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84173.6,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:49:17.899304"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84178.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:50:18.728288"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84214.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:51:19.599890"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84220.0,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:52:20.443231"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84221.46,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:53:21.288934"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84234.0,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:54:22.139132"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84234.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:55:23.156444"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84234.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:56:24.302949"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84231.99,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:57:25.336166"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84225.36,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:58:26.269055"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84224.02,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 01:59:27.230913"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84164.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:00:11.911287"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84226.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:00:23.042207"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84270.0,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:01:23.884200"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84292.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:02:24.920887"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84267.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:03:25.844445"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84252.0,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:04:26.713205"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84264.21,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:05:27.694084"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84194.98,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:06:17.518985"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84192.72,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:07:18.367175"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84185.04,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:08:19.203760"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84166.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:09:20.063855"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84136.86,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:10:21.208618"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84172.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:11:22.606244"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84194.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:12:24.191434"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84256.12,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:13:20.689031"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84250.0,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:14:21.990946"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84220.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:15:22.834312"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84232.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:16:24.705465"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84282.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:17:14.456614"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84246.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:18:15.643373"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84282.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:19:16.447416"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84316.07,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:20:17.262383"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84330.0,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:21:18.597773"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84342.46,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:22:19.693899"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84345.49,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:23:20.437927"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84338.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:24:22.219797"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84360.01,
+      "signal": "SELL",
+      "confidence": 80,
+      "momentum_score": 15,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 68,
+      "risk": "Low",
+      "market_mood": "Bearish",
+      "reason": [
+        "Negative momentum",
+        "Live price"
+      ],
+      "decision": "Negative momentum, Live price",
+      "time": "2026-09-28 02:25:23.000046"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84375.99,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 02:26:01.660042"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84400.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 02:27:02.415478"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84402.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 02:29:00.067457"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84408.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 02:30:00.856765"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84454.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 02:31:01.634910"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84446.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 02:32:02.430607"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84492.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 02:52:18.011255"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84498.33,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 02:52:52.229884"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84498.33,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 02:53:25.393947"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84498.32,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 02:53:58.527287"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84484.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 02:54:32.175126"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84520.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 02:56:48.878925"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84532.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 02:57:22.044377"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84532.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 02:57:55.216064"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84480.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 02:58:11.818358"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84543.36,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:03:08.615025"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84554.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:03:41.751825"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84566.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:04:14.898235"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84550.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:04:48.057523"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84551.23,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:05:21.204609"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84522.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:05:54.323592"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84530.01,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:06:27.470603"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84542.02,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:07:00.621218"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84511.16,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:07:28.249991"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84474.19,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:07:44.835670"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84470.02,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:08:17.971814"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84436.52,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:08:45.608065"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84400.0,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:09:18.777444"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84411.97,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:10:17.986119"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84382.78,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:10:51.138416"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84386.48,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:11:24.311102"
+    },
+    {
+      "symbol": "BTCUSDT",
+      "price": 84378.23,
+      "signal": "BUY",
+      "confidence": 80,
+      "momentum_score": 25,
+      "trend_score": 20,
+      "volume_score": 15,
+      "volatility_score": 10,
+      "ai_explanation": "AI intelligence analysis generated from momentum, trend, volume and risk factors.",
+      "score": 84,
+      "risk": "Low",
+      "market_mood": "Bullish",
+      "reason": [
+        "Positive momentum",
+        "Live price"
+      ],
+      "decision": "Positive momentum, Live price",
+      "time": "2026-09-28 03:11:57.468130"
+    }
+  ]
+}

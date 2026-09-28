@@ -1,0 +1,5 @@
+SCALPER V2
+- cooldown reduced to 3 seconds
+- take profit 0.18%
+- stop loss 0.12%
+- faster paper trading cycle

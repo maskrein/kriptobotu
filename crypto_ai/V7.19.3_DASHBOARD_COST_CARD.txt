@@ -1,0 +1,12 @@
+CRYPTO AI V7.19.3 DASHBOARD COST CARD
+
+Updated dashboard support for cost-aware paper trading.
+
+Fields:
+- gross_pnl
+- commission
+- slippage
+- net_pnl
+
+Flow:
+Shared Paper State -> Dashboard -> Paper Performance

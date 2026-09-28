@@ -1,0 +1,10 @@
+CRYPTO AI V7.13.2 AI INTELLIGENCE
+
+Added:
+- AI intelligence scoring module
+- Momentum score
+- Trend score
+- Volume score
+- Volatility score
+- Risk score
+- AI explanation layer

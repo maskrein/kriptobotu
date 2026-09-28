@@ -1,0 +1,11 @@
+CRYPTO AI V7.16.8 SHARED PAPER STATE
+
+Fix:
+- Dashboard and execution engine now share the same PaperTrader instance.
+
+Flow:
+AI Signal -> Paper Worker -> PaperTrader -> Dashboard
+
+Result:
+Opened positions and trades can be reflected consistently.
+

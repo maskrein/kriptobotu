@@ -1,0 +1,9 @@
+CRYPTO AI V7.13.2.6 STABLE
+
+Purpose:
+- Freeze the currently working dashboard and trading flow.
+- Keep AI Score, Market Mood, Risk and Decision structure stable.
+- Prepare a clean base before future feature additions.
+
+Recommended next step:
+Build new features only on top of this stable version.
